@@ -2,6 +2,12 @@
 > This repo is all you need for doing research in autonomous driving systems integrated with LLMs and VLMs. The papers are organized in different sections based on the topics they cover.
 
 ## Table of Contents
+- [LLMs-only models](#llms-only-models)
+- [LLMs-to-action models](#llms-to-action-models)
+- [VLMs-based models (sensory bridge)](#vlms-based-models-sensory-bridge)
+- [VLMs-based models (perception tasks)](#vlms-based-models-perception-tasks)
+- [Full VLMs closed-loop models](#full-vlms-closed-loop-models)
+- [Surveys](#surveys)
 
 
 
